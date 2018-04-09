@@ -1,0 +1,183 @@
+{"frames": [
+
+{
+	"filename": "robowalk00.png",
+	"frame": {"x":0,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk01.png",
+	"frame": {"x":83,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk02.png",
+	"frame": {"x":166,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk03.png",
+	"frame": {"x":249,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk04.png",
+	"frame": {"x":332,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk05.png",
+	"frame": {"x":415,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk06.png",
+	"frame": {"x":498,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk07.png",
+	"frame": {"x":581,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk08.png",
+	"frame": {"x":664,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk09.png",
+	"frame": {"x":747,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk10.png",
+	"frame": {"x":830,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk11.png",
+	"frame": {"x":913,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk12.png",
+	"frame": {"x":996,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk13.png",
+	"frame": {"x":1079,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk14.png",
+	"frame": {"x":1162,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk15.png",
+	"frame": {"x":1245,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk16.png",
+	"frame": {"x":1328,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk17.png",
+	"frame": {"x":1411,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "robowalk18.png",
+	"frame": {"x":1494,"y":0,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "robowalk-sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":1577,"h":83},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:151b45fc583e67bc848f2587d344fbbb:147d7bbdac0474aeaa7fb00f7a905cf7:7b535a79badc66739f8659107382555c$"
+}
+}
